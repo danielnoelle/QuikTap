@@ -5,7 +5,7 @@
 ### *Fast, secure, and modern Point of Sale for businesses*
 
 <p>
-   <a href="https://github.com/danielnoelle/pulse.linux/stargazers">
+   <a href="https://github.com/danielnoelle/QuikTap">
       <img src="https://img.shields.io/github/stars/danielnoelle/pulse.linux?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
    </a>
    <a href="LICENSE">
@@ -16,7 +16,7 @@
    </a>
 </p>
 
-<img src="assets/quiktap1.png" alt="QuikTap POS" width="420" style="border-radius:20px;margin:32px 0;"/>
+<img src="assets/quiktap1.png" alt="QuikTap POS" width="600" style="border-radius:20px;margin:32px 0;"/>
 
 </div>
 
