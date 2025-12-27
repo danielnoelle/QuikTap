@@ -16,7 +16,7 @@
    </a>
 </p>
 
-<img src="asset/quiktap1.png" alt="QuikTap POS" width="420" style="border-radius:20px;margin:32px 0;"/>
+<img src="assets/quiktap1.png" alt="QuikTap POS" width="420" style="border-radius:20px;margin:32px 0;"/>
 
 </div>
 
@@ -123,21 +123,21 @@ Secure your business with role-based access control and session monitoring.
 <table>
 <tr>
 <td width="50%">
-<img src="asset/quiktap1.png" alt="Login Screen" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
+<img src="assets/quiktap1.png" alt="Login Screen" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
 <p align="center"><em>Secure Login Interface</em></p>
 </td>
 <td width="50%">
-<img src="asset/quiktap2.png" alt="Sales Interface" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
+<img src="assets/quiktap2.png" alt="Sales Interface" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
 <p align="center"><em>Sales Processing Dashboard</em></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="asset/quiktap3.png" alt="Records & Analytics" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
+<img src="assets/quiktap3.png" alt="Records & Analytics" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
 <p align="center"><em>Records & Analytics Panel</em></p>
 </td>
 <td width="50%">
-<img src="asset/quiktap4.png" alt="Inventory Management" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
+<img src="assets/quiktap4.png" alt="Inventory Management" width="100%" style="border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
 <p align="center"><em>Inventory Management</em></p>
 </td>
 </tr>
