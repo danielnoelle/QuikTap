@@ -81,7 +81,7 @@ java -cp target/classes com.mycompany.posproject.pos
 
 ## 📋 Core Capabilities
 
-### 💳 Fast Sales Processing
+### Fast Sales Processing
 
 Process transactions in seconds with barcode scanning, automatic calculations, and instant receipt generation.
 
@@ -92,7 +92,7 @@ Process transactions in seconds with barcode scanning, automatic calculations, a
 ✓ Receipt printed
 ```
 
-### 📦 Smart Inventory Management
+### Smart Inventory Management
 
 Maintain complete control over your stock with real-time updates and intelligent alerts.
 
@@ -104,7 +104,7 @@ Maintain complete control over your stock with real-time updates and intelligent
 ```
 
 
-### 🔒 User & Session Management
+### User & Session Management
 
 Secure your business with role-based access control and session monitoring.
 
