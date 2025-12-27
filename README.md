@@ -6,7 +6,7 @@
 
 <p>
    <a href="https://github.com/danielnoelle/QuikTap">
-      <img src="https://img.shields.io/github/stars/danielnoelle/pulse.linux?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/danielnoelle/QuikTap?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
    </a>
    <a href="LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License"/>
