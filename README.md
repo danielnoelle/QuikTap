@@ -1,6 +1,6 @@
 <div align="center">
 
-# QuikTap POS System
+# QuikTap
 
 ### *Fast, secure, and modern Point of Sale for businesses*
 
